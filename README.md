@@ -12,7 +12,7 @@
 - [x] [第四章 集合类型](http://www.grdtechs.com/2016/01/19/go-collection-types/)
 - [x] [第五章 控制流程](http://www.grdtechs.com/2016/01/21/go-control/)
 - [x] [第六章 方法](http://www.grdtechs.com/2016/01/23/go-methods/)
-- [ ] [第七章]()
+- [x] [第七章 接口](http://www.grdtechs.com/2016/01/25/go-interfaces/)
 - [ ] [第八章]()
 - [ ] [第十一章]()
 
