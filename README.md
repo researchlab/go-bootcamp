@@ -9,7 +9,7 @@
 
 - [x] [第二章 基本概念实战](http://www.grdtechs.com/2016/01/16/go-basics/)
 - [x] [第三章 内置类型实战](http://www.grdtechs.com/2016/01/17/go-types/)
-- [ ] [第四章]()
+- [x] [第四章 集合类型](http://www.grdtechs.com/2016/01/19/go-collection-types/)
 - [ ] [第五章]()
 - [ ] [第六章]()
 - [ ] [第七章]()
