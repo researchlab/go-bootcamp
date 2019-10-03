@@ -7,12 +7,12 @@
 
 **翻译章节**
 
-- [x] [第二章 基本概念实战](http://www.grdtechs.com/2016/01/16/go-basics/)
-- [x] [第三章 内置类型实战](http://www.grdtechs.com/2016/01/17/go-types/)
-- [x] [第四章 集合类型](http://www.grdtechs.com/2016/01/19/go-collection-types/)
-- [x] [第五章 控制流程](http://www.grdtechs.com/2016/01/21/go-control/)
-- [x] [第六章 方法](http://www.grdtechs.com/2016/01/23/go-methods/)
-- [x] [第七章 接口](http://www.grdtechs.com/2016/01/25/go-interfaces/)
+- [x] [第二章 基本概念实战](http://researchlab.github.io/2016/01/16/go-basics/)
+- [x] [第三章 内置类型实战](http://researchlab.github.io/2016/01/17/go-types/)
+- [x] [第四章 集合类型](http://researchlab.github.io/2016/01/19/go-collection-types/)
+- [x] [第五章 控制流程](http://researchlab.github.io/2016/01/21/go-control/)
+- [x] [第六章 方法](http://researchlab.github.io/2016/01/23/go-methods/)
+- [x] [第七章 接口](http://researchlab.github.io/2016/01/25/go-interfaces/)
 - [ ] [第八章]()
 - [ ] [第十一章]()
 
